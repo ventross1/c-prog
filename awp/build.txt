@@ -1,3 +1,0 @@
-displayName = awp
-author = ventross
-version = 0.1
